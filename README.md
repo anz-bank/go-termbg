@@ -4,6 +4,9 @@ The detected color is provided by RGB or theme ( dark or light ).
 
 Based on https://github.com/dalance/termbg for Rust
 
+This is a temporary fork due to a problem with v0.3.0 having a bug when you go
+get it directly.
+
 ## Verified terminals
 
 * [Alacritty](https://github.com/alacritty/alacritty)
